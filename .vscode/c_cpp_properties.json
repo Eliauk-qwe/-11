@@ -5,10 +5,10 @@
       "includePath": [
         "${workspaceFolder}/**"
       ],
-      "compilerPath": "/usr/bin/g++",
+      "compilerPath": "/usr/bin/gcc",
       "cStandard": "${default}",
-      "cppStandard": "c++17",
-      "intelliSenseMode": "linux-g++-x64",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "linux-gcc-x64",
       "compilerArgs": [
         ""
       ]
